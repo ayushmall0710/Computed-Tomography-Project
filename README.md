@@ -15,7 +15,7 @@ This repository contains MATLAB code and documentation for implementing computed
 3. Output images will be displayed and saved under the `images/` folder.
 
 ## Project Report
-For a detailed explanation, refer to [CT_Project_Report-Ayush_Mall.pdf](CT_Project_Report-Ayush_Mall.pdf).
+For a detailed explanation, refer to [CT_Project_Report-Ayush_Mall.pdf](CT_Project_Report-Ayush_Mall.pdf). (TODO: Add link)
 
 ## License
 This project is licensed under the MIT License.
